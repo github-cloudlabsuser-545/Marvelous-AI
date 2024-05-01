@@ -1,6 +1,8 @@
-langchain==0.1.16
-protobuf==5.26.1
-PyPDF2==3.0.1
-Requests==2.31.0
-streamlit==1.28.0
-streamlit_chat==0.1.1
+langchain
+langchain-community 
+langchain-openai 
+langchain-experimental 
+neo4j
+tiktoken
+yfiles_jupyter_graphs
+dotenv
